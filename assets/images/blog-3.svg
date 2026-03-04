@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+  <title id="t">Blog Recuperacion</title>
+  <desc id="d">Imagen de blog</desc>
+  <rect width="900" height="560" fill="#141414"/>
+  <circle cx="300" cy="250" r="150" fill="#ff1f1f" fill-opacity="0.28"/>
+  <path d="M300 160v100l60 44" stroke="#ffffff" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <circle cx="300" cy="250" r="14" fill="#ffffff"/>
+  <text x="480" y="240" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700">RECUPERACION</text>
+  <text x="480" y="300" fill="#bdbdbd" font-family="Arial, sans-serif" font-size="40" font-weight="700">Y DESCANSO</text>
+</svg>

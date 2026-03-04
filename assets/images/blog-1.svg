@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+  <title id="t">Blog Hipertrofia</title>
+  <desc id="d">Imagen de blog</desc>
+  <rect width="900" height="560" fill="#141414"/>
+  <rect x="0" y="390" width="900" height="170" fill="#0b0b0b"/>
+  <path d="M150 300l120-140 120 100 160-180 200 220" stroke="#ff1f1f" stroke-width="18" fill="none"/>
+  <text x="60" y="500" fill="#ffffff" font-family="Arial, sans-serif" font-size="52" font-weight="700">HIPERTROFIA</text>
+</svg>

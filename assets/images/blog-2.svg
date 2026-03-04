@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+  <title id="t">Blog Nutricion</title>
+  <desc id="d">Imagen de blog</desc>
+  <rect width="900" height="560" fill="#141414"/>
+  <circle cx="240" cy="270" r="120" fill="#ff1f1f" fill-opacity="0.35"/>
+  <rect x="380" y="180" width="370" height="35" rx="17" fill="#ffffff"/>
+  <rect x="380" y="240" width="320" height="26" rx="13" fill="#bdbdbd"/>
+  <rect x="380" y="286" width="285" height="26" rx="13" fill="#bdbdbd"/>
+  <text x="380" y="390" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700">NUTRICION</text>
+</svg>

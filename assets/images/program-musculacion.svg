@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+  <title id="t">Musculacion</title>
+  <desc id="d">Tarjeta programa musculacion</desc>
+  <rect width="900" height="560" fill="#141414"/>
+  <rect x="35" y="35" width="830" height="490" rx="28" fill="#0b0b0b" stroke="#2d2d2d"/>
+  <rect x="170" y="240" width="560" height="40" rx="20" fill="#ff1f1f"/>
+  <rect x="120" y="210" width="55" height="100" fill="#bdbdbd"/>
+  <rect x="725" y="210" width="55" height="100" fill="#bdbdbd"/>
+  <text x="260" y="370" fill="#ffffff" font-family="Arial, sans-serif" font-size="56" font-weight="700">MUSCULACION</text>
+</svg>

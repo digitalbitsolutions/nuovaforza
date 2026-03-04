@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+  <title id="t">Entrenamiento Funcional</title>
+  <desc id="d">Tarjeta programa funcional</desc>
+  <rect width="900" height="560" fill="#141414"/>
+  <rect x="35" y="35" width="830" height="490" rx="28" fill="#0b0b0b" stroke="#2d2d2d"/>
+  <circle cx="210" cy="280" r="110" fill="#ff1f1f" fill-opacity="0.25"/>
+  <rect x="340" y="220" width="330" height="28" rx="14" fill="#ff1f1f"/>
+  <rect x="340" y="268" width="270" height="20" rx="10" fill="#bdbdbd" fill-opacity="0.85"/>
+  <text x="340" y="350" fill="#ffffff" font-family="Arial, sans-serif" font-size="52" font-weight="700">FUNCIONAL</text>
+</svg>
