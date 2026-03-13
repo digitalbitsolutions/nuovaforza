@@ -1,4 +1,4 @@
-﻿@font-face {
+@font-face {
   font-family: "TekoLocal";
   src:
     local("Teko"),
@@ -1206,16 +1206,23 @@ textarea:focus {
   }
 }
 
-@media (max-width: 680px) {
+@media (max-width: 768px) {
   .gallery-grid {
     grid-template-columns: repeat(3, 1fr);
     gap: 0.6rem;
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 500px) {
   .gallery-grid {
     grid-template-columns: repeat(2, 1fr);
-    gap: 0.5rem;
+    gap: 0.4rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
   }
 }
